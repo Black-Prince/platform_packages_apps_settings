@@ -4964,6 +4964,9 @@
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themes</string>
 
+    <!-- Launches Dev Tools -->
+    <string name="development_tools_title">Launch Tools</string>
+
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 
 </resources>
