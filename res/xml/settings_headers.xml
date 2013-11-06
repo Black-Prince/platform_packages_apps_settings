@@ -72,6 +72,16 @@
             android:targetClass="com.tmobile.themechooser.ThemeChooser" />
     </header>
 
+    <!-- BlackSRom -->
+    <header android:title="@string/purity_category_title" />
+
+    <!-- System -->
+    <header
+	android:id="@+id/system_settings"
+	android:fragment="com.android.settings.cyanogenmod.SystemSettings"
+	android:title="@string/system_settings_title"
+	android:icon="@drawable/ic_settings_black" />
+
     <!-- DEVICE -->
     <header android:id="@+id/device_section"
         android:title="@string/header_category_device" />

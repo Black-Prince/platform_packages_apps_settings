@@ -4959,7 +4959,12 @@
 
     <!-- INTERFACE Settings  -->
     <!-- Settings main menu category heading. Interface (Launcher, Themes, System). [CHAR LIMIT=40] -->
-    <string name="header_category_interface">INTERFACE</string>
+
+    <string name="system_settings_title">System</string>
+    <string name="system_interface_title">System interface</string>
+
+    <!-- BlacksRom Category  -->
+    <string name="black_category_title">BlackSRom</string>
 
     <!-- Themes settings  -->
     <string name="themes_settings_title">Themes</string>
