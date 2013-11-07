@@ -115,5 +115,6 @@
     <!-- Network stats hide if there's no traffic -->
     <string name="hide_network_speed">Hide when there is no traffic</string>
     <string name="hide_network_speed_summary">Hide network stats indicator when there is no traffic</string>    
+    <string name="screen_on_notification_led_summary">Enable Notification Light even when screen is on</string>     
     
 </resources>
